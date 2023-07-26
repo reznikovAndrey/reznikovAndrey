@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Andrey.
+
+🔭 I’m currently working in [RED_MAD_ROBOT Cendral Asia](https://www.redmadrobot.kz/) as a frontend developer.
+
+### Tech stack:
+- [React](https://react.dev/) with its ecosystem
+- [Typescript](https://www.typescriptlang.org/)
+
 <!--
 **reznikovAndrey/reznikovAndrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
